@@ -289,6 +289,7 @@ TARGET_BOARD_PLATFORM := lahaina
 TARGET_COMMON_QTI_COMPONENTS := \
     adreno \
     bt \
+    nfc \
     perf
 
 # RIL
