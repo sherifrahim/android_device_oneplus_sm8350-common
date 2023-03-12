@@ -130,12 +130,6 @@ ro.netflix.bsp_rev=Q875-32408-1
 persist.vendor.qteeconnector.retrying_interval=30
 persist.vendor.qteeconnector.retrying_timeout=2000
 
-# Radio
-persist.vendor.radio.custom_ecc=1
-persist.vendor.radio.procedure_bytes=SKIP
-persist.vendor.radio.rat_on=combine
-ro.telephony.default_network=33,33
-
 # Sensors
 persist.vendor.sensors.allow_non_default_discovery=true
 persist.vendor.sensors.on_change_sample_period=true
